@@ -1,0 +1,1 @@
+sudo docker run -d -p 19010:19010 flask-app
