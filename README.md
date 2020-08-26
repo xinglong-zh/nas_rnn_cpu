@@ -1,5 +1,5 @@
-# pytorch
-a space for learn pytorch  ,  keep moving.
+###  pytorch project fot NAS  
+---
 + cifar-cnn 
         
         docker build ./ -t "name:tag"            // build image
